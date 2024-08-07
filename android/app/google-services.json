@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512923204923",
+    "project_id": "object-detection-app-d9fb6",
+    "storage_bucket": "object-detection-app-d9fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512923204923:android:2ab8dc2153b65708e18b1e",
+        "android_client_info": {
+          "package_name": "com.mlapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OUSqVNJcRWbbuj6wfSBGltMvEzhngQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

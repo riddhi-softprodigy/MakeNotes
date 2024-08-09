@@ -4,7 +4,7 @@ import { RNCamera } from 'react-native-camera';
 import ml from '@react-native-firebase/ml';
 import TextRecognition from '@react-native-ml-kit/text-recognition';
 
-const textRecognaigation = () => {
+const TextRecognaigation = () => {
   const [capturedImage, setCapturedImage] = useState(null);
   const [predictions, setPredictions] = useState([]);
   const [recognizedText, setRecognizedText] = useState<String>();
@@ -59,4 +59,4 @@ const styles = StyleSheet.create({
   predictionText: { color: 'white' },
 });
 
-export default textRecognaigation;
+export default TextRecognaigation;

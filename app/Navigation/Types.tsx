@@ -14,7 +14,10 @@ export type RootStackScreens = {
   Login: undefined;
   SignUp: undefined;
   Home: undefined;
- 
+  TextRecognaigation:undefined;
+  Docs: undefined;
+  Notes: undefined;
+
 };
 
 export type ScreenNavigationProp = NativeStackNavigationProp<RootStackScreens>;

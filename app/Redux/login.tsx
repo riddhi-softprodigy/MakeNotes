@@ -26,7 +26,8 @@ export const loginUser = createAsyncThunk(
       return data;
     } catch (error: any) {
       console.log(error);
-      showToast(error, 1);
+      console.log("*******");
+      showToast("Incorrent credential, Please try again", 1);
       dispatch(hideLoader());
     }
   },

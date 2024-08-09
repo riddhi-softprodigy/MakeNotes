@@ -7,7 +7,7 @@ const colors = {
   whiteLight: 'rgba(255, 255, 255, 0.4)',
   darkGray: 'rgba(42, 42, 42, 1)',
   transparentBlack: 'rgba(0, 0, 0, 0.2)',
-  greenFast: 'rgba(137, 197, 64, 1)',
+  greenFast: 'rgba(163, 223, 227, 1)',
   shadowColor: 'rgba(0, 103, 219, 0.15)',
   grayFast: 'rgba(202, 202, 202, 1)',
   grayDim: 'rgba(106, 106, 106, 1)',
@@ -46,6 +46,7 @@ const colors = {
   imageGray: '#D9D9D9',
   routeColor: '#0E56AB',
   borderColor: '#A0A0A0',
+  blueColor:'#2096be'
 };
 
 export default colors;
